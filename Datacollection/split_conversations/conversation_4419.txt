@@ -1,0 +1,9 @@
+Buyer: Hi, I'm interested in the apartment you listed.
+Seller: Yes, I can share more details. What would you like to know?
+Buyer: How far is the metro station?
+Seller: Yes, it comes with one covered parking.
+Buyer: How far is the metro station?
+Seller: The neighborhood is quite peaceful, with schools nearby.
+Buyer: How old is the building?
+Seller: We can adjust the price a little, depending on payment terms.
+Buyer: Thanks for the details, maybe I’ll schedule a visit.

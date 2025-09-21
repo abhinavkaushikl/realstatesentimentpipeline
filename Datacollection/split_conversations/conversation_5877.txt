@@ -1,0 +1,13 @@
+Buyer: Hi, I'm interested in the apartment you listed.
+Seller: Yes, I can share more details. What would you like to know?
+Buyer: Why is the owner selling?
+Seller: It’s a 10-minute walk to the metro station.
+Buyer: What’s the price range?
+Seller: It’s priced at 1.2 crores, slightly negotiable.
+Buyer: Can you tell me about the neighborhood?
+Seller: Yes, it comes with one covered parking.
+Buyer: What’s the price range?
+Seller: It’s a 10-minute walk to the metro station.
+Buyer: Can you tell me about the neighborhood?
+Seller: The building is around 8 years old.
+Buyer: Thanks for the details, maybe I’ll schedule a visit.

@@ -1,0 +1,9 @@
+Buyer: Hello, I saw the property online and wanted to know more.
+Seller: Sure, happy to help. Which property are you asking about?
+Buyer: Is the price negotiable?
+Seller: The owner is relocating abroad.
+Buyer: How far is the metro station?
+Seller: The owner is relocating abroad.
+Buyer: Can you tell me about the neighborhood?
+Seller: Yes, it comes with one covered parking.
+Buyer: Thanks for the details, maybe I’ll schedule a visit.

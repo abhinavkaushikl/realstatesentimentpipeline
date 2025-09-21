@@ -1,0 +1,9 @@
+Buyer: Hi, I'm interested in the apartment you listed.
+Seller: Sure, happy to help. Which property are you asking about?
+Buyer: Why is the owner selling?
+Seller: The owner is relocating abroad.
+Buyer: Is the price negotiable?
+Seller: We can adjust the price a little, depending on payment terms.
+Buyer: Does it have parking?
+Seller: Yes, it comes with one covered parking.
+Buyer: Okay, let me think about it.

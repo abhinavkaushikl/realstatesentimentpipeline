@@ -1,0 +1,13 @@
+Buyer: Hello, I saw the property online and wanted to know more.
+Seller: Of course, do you have a budget in mind?
+Buyer: How far is the metro station?
+Seller: The neighborhood is quite peaceful, with schools nearby.
+Buyer: Does it have parking?
+Seller: The owner is relocating abroad.
+Buyer: What’s the price range?
+Seller: We can adjust the price a little, depending on payment terms.
+Buyer: How far is the metro station?
+Seller: The building is around 8 years old.
+Buyer: Is the price negotiable?
+Seller: The owner is relocating abroad.
+Buyer: That sounds interesting, I’ll discuss with my family.

@@ -1,0 +1,7 @@
+Buyer: Hello, I saw the property online and wanted to know more.
+Seller: Yes, I can share more details. What would you like to know?
+Buyer: How old is the building?
+Seller: It’s priced at 1.2 crores, slightly negotiable.
+Buyer: How old is the building?
+Seller: We can adjust the price a little, depending on payment terms.
+Buyer: I’ll get back to you later.

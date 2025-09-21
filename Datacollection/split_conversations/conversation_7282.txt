@@ -1,0 +1,11 @@
+Buyer: Hello, I saw the property online and wanted to know more.
+Seller: Yes, I can share more details. What would you like to know?
+Buyer: Does it have parking?
+Seller: We can adjust the price a little, depending on payment terms.
+Buyer: Does it have parking?
+Seller: The owner is relocating abroad.
+Buyer: Why is the owner selling?
+Seller: The owner is relocating abroad.
+Buyer: Does it have parking?
+Seller: It’s a 10-minute walk to the metro station.
+Buyer: Thanks for the details, maybe I’ll schedule a visit.

@@ -1,0 +1,15 @@
+Buyer: Hello, I saw the property online and wanted to know more.
+Seller: Sure, happy to help. Which property are you asking about?
+Buyer: Can you tell me about the neighborhood?
+Seller: The neighborhood is quite peaceful, with schools nearby.
+Buyer: Why is the owner selling?
+Seller: Yes, it comes with one covered parking.
+Buyer: Is the price negotiable?
+Seller: We can adjust the price a little, depending on payment terms.
+Buyer: What’s the price range?
+Seller: It’s a 10-minute walk to the metro station.
+Buyer: What’s the price range?
+Seller: It’s priced at 1.2 crores, slightly negotiable.
+Buyer: Can you tell me about the neighborhood?
+Seller: Yes, it comes with one covered parking.
+Buyer: Okay, let me think about it.
